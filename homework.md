@@ -1,3 +1,3 @@
 If Mera does her homeowrk will she...
 Get rewarded with [ice-cream](ice-cream.md)
-Get rewarded with [money](money.md) 
+Get rewarded with [money](money.md) s
