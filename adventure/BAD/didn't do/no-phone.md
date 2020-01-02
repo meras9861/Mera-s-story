@@ -1,3 +1,3 @@
 When Mera gets her phone taken away she will...
 Start doing her [work](start-work.md)
-Be mean to her [mom](mean-to-mom.md)
+Be mean to her [mom](act-up.md)
