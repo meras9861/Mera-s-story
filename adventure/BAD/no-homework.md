@@ -1,3 +1,3 @@
 If Mera doesn't do her homwork...
-Her mom will take her [phone](no-phone.md)
-Her mom will not get her [ice-cream](no-ice-cream.md)
+Her mom will take her [phone](no_do/no-phone.md)
+Her mom will not get her [ice-cream](no_do/no-ice-cream.md)
